@@ -1,1 +1,21 @@
-# kit-hackathon\n\nHackathon project spec template for dotdog\n\nBuilt for [dotdog](https://github.com/specdog/dotdog).\n\n## Usage\n\n```bash\nnpm install -g dotdog\ndotdog kit init hackathon\ndotdog validate\n```\n\n## License\n\nMIT
+# kit-hackathon
+
+A hackathon spec template for [dotdog](https://github.com/specdog/dotdog).
+
+## Usage
+
+```bash
+npm install -g dotdog
+dotdog kit init hackathon
+dotdog validate
+```
+
+## Contents
+
+- SPEC.dog
+- constitution.dog
+- data-model.dog
+
+## License
+
+MIT
